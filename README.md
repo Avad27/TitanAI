@@ -35,7 +35,7 @@ It is designed to **support banks and payment apps**, not replace existing payme
 
 The following flowchart illustrates how a transaction moves from a request to a final decision through the TitanAI engine:
 
-![TitanAI Fraud Risk Scoring Flow](images/ai_fraud_risk_scoring_flow.png)
+![TitanAI Fraud Risk Scoring Flow](images/AI%20Fraud%20Decision%20%26%20Risk%20Scoring%20Flow.png)
 
 ### The Logic Flow:
 1. **Payment Request** (Initiated by user)
@@ -59,7 +59,7 @@ UPI transactions involve multiple entities including Banks, NPCI, and PSP apps (
 
 TitanAI is built to handle data efficiently across different layers, ensuring low latency and high security.
 
-![Transaction Fraud Detection Timeline](images/transaction_fraud_detection_timeline.png)
+![Transaction Fraud Detection Timeline](TitanAI/images/Transaction%20Fraud%20Detection%20Timeline.png)
 
 ### The Pipeline:
 * **Client / Dashboard:** The interface for monitoring.
